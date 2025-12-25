@@ -184,6 +184,4 @@ Healthcare-Quality-Analysis-Dashboard/
 
 **Created by Keerthi Samhitha Kadaveru**
 
-⭐ If you found this project useful, please consider giving it a star!
-
 </div>
