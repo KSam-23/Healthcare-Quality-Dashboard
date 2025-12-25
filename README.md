@@ -21,10 +21,7 @@ This Power BI dashboard analyzes **HCAHPS (Hospital Consumer Assessment of Healt
 
 > **Objective:** Determine whether hospitals have successfully improved their quality of care based on patient feedback from 2015-2023.
 
-                                                          **Author:** Keerthi Samhitha Kadaveru
-
 ---
-
 ## 📊 Key Performance Indicators
 
 <table>
@@ -129,7 +126,6 @@ Healthcare-Quality-Analysis-Dashboard/
 ├── README.md                    # Project documentation
 ├── LICENSE                      # MIT License
 ├── .gitignore                   # Git ignore rules
-├── CONTRIBUTING.md              # Contribution guidelines
 │
 ├── data/
 │   ├── README.md
