@@ -6,7 +6,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiODRjNzk0YmQtZWJjMC00ZDVlLTgzZGMtY2RhMTljNTRkMTVhIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9)
 [![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-00A86B?style=for-the-badge)](/)
-[![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)](/)
 
 <br/>
 
@@ -22,7 +21,7 @@ This Power BI dashboard analyzes **HCAHPS (Hospital Consumer Assessment of Healt
 
 > **Objective:** Determine whether hospitals have successfully improved their quality of care based on patient feedback from 2015-2023.
 
-**Author:** Keerthi Samhitha Kadaveru
+                                                          **Author:** Keerthi Samhitha Kadaveru
 
 ---
 
