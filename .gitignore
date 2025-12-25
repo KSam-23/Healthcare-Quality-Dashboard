@@ -1,0 +1,37 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+#                    HEALTHCARE QUALITY ANALYSIS - .GITIGNORE
+#                         By Keerthi Samhitha Kadaveru
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# Power BI Files
+*.pbix
+*.pbit
+*.pbix.bak
+
+# Temporary Files
+*.tmp
+*.temp
+~$*
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Data Files (keep documentation only)
+data/*.csv
+data/*.xlsx
+!data/README.md
+!data/data_dictionary.md
+
+# Logs
+*.log
+logs/
+
+# Credentials
+*.env
+secrets/
